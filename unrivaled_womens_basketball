@@ -1,0 +1,136 @@
+Here are **team color palettes (with HEX codes)** for the *Unrivaled Women’s Basketball League* teams — including the expansion clubs — based on available branding information and official sources where possible. Unrivaled is a women’s 3-on-3 pro league co-founded by Napheesa Collier and Breanna Stewart, featuring teams with unique club identities rather than geographic ties. ([Unrivaled Basketball][1])
+
+---
+
+## 🏀 **Unrivaled League Team Color Palettes (HEX)**
+
+### **🌬️ Breeze BC**
+
+* **Pale Sky:** `#EFF1FE`
+* **Deep Indigo:** `#4C3971`
+* **Magenta:** `#B62F72`
+
+> Breeze BC’s palette blends light and bold hues, giving an energetic yet elegant visual identity for the expansion team. ([Wikipedia][2])
+
+---
+
+### **🐝 Hive BC**
+
+* **Dark Gray:** `#515659`
+* **Energetic Yellow:** `#FFC728`
+* **White:** `#FFFFFF`
+
+> Hive’s colors reflect the bee theme, with hexagonal elements likely reinforcing the “hive” aesthetic. ([Wikipedia][3])
+
+---
+
+### **🟣 Lunar Owls BC**
+
+* **White:** `#FFFFFF`
+* **Owl Purple:** `#40347D`
+* **Moonlight Gold:** `#F4E087`
+
+> The Lunar Owls palette pairs deep purple with soft gold accents, evoking night sky and lunar imagery. ([Wikipedia][4])
+
+---
+
+### **👟 Laces BC**
+
+* **White:** `#FFFFFF`
+* **Teal Green:** `#74B29F`
+* **Dusty Rose:** `#D28C8C`
+
+> Laces’ colors offer a softer, fashionable palette — perhaps nodding to the idea of “laces” and style. ([Wikipedia][5])
+
+---
+
+### **👻 Phantom BC**
+
+* **Black:** `#000000`
+* **White:** `#FFFFFF`
+* **Light Gray:** `#CECECE`
+
+> A minimalist, ethereal palette that plays into the “phantom”/ghostly theme. ([Wikipedia][6])
+
+---
+
+### **🌹 Rose BC**
+
+*(No official HEX codes available yet; based on common representations in branding and game footage)*
+
+* **Rose Red (approx):** `#D32F2F` *(approx)*
+* **Black:** `#000000`
+* **White:** `#FFFFFF`
+
+> Rose BC uses bold red alongside black and white; specific official HEX codes haven’t been published publicly yet. *(brand estimation)*
+
+---
+s
+### **📀 Vinyl BC**
+
+*(No official HEX codes widely published; inferred palette)*
+
+* **Vinyl Blue (approx):** `#0A1F44` *(approx)*
+* **Sky Blue Accent (approx):** `#4DA6FF` *(approx)*
+* **White:** `#FFFFFF`
+
+> Vinyl’s branding emphasizes music/record motifs, so a classic dark-blue palette with bright accents fits the theme. *(brand estimation)*
+
+---
+
+## 🎨 **How to Use These Palettes**
+
+These HEX values can help you:
+
+* Design **graphics or social media posts** for Unrivaled teams.
+* Create **jersey mockups** or fan visuals.
+* Build **web UI themes** around each team’s identity.
+* Generate **CSS variables** for team-based styling.
+
+Example CSS snippet:
+
+```css
+/* Breeze BC */
+--breeze-pale: #EFF1FE;
+--breeze-indigo: #4C3971;
+--breeze-magenta: #B62F72;
+
+/* Hive BC */
+--hive-dark-gray: #515659;
+--hive-yellow: #FFC728;
+--hive-white: #FFFFFF;
+
+/* Lunar Owls BC */
+--lunar-white: #FFFFFF;
+--lunar-purple: #40347D;
+--lunar-gold: #F4E087;
+
+/* Laces BC */
+--laces-white: #FFFFFF;
+--laces-teal: #74B29F;
+--laces-rose: #D28C8C;
+
+/* Phantom BC */
+--phantom-black: #000000;
+--phantom-white: #FFFFFF;
+--phantom-gray: #CECECE;
+```
+
+---
+
+## 🧠 Notes
+
+* Official HEX codes are available for several teams via verified branding documentation; where not publicly published, *approximations* above reflect typical logo/jersey visuals seen online. ([Wikipedia][2])
+* Unrivaled’s team branding is still evolving, especially with recent expansion teams Breeze BC and Hive BC added for the 2026 season. ([CT Insider][7])
+
+---
+
+If you want, I can format these into **downloadable palette swatches** (like Adobe/Sketch/Affinity formats) or generate **team badges with these colors** for easy reference!
+
+[1]: https://www.unrivaled.basketball/clubs?utm_source=chatgpt.com "Clubs - Unrivaled Basketball"
+[2]: https://en.wikipedia.org/wiki/Breeze_BC?utm_source=chatgpt.com "Breeze BC"
+[3]: https://en.wikipedia.org/wiki/Hive_BC?utm_source=chatgpt.com "Hive BC"
+[4]: https://en.wikipedia.org/wiki/Lunar_Owls_BC?utm_source=chatgpt.com "Lunar Owls BC"
+[5]: https://en.wikipedia.org/wiki/Laces_BC?utm_source=chatgpt.com "Laces BC"
+[6]: https://en.wikipedia.org/wiki/Phantom_BC?utm_source=chatgpt.com "Phantom BC"
+[7]: https://www.ctinsider.com/sports/uconn-womens-basketball/article/unrivaled-paige-bueckers-collier-stewart-cba-sun-21257704.php?utm_source=chatgpt.com "What to know about Unrivaled's second season: UConn alums, Paige Bueckers' debut, WNBA labor strife"
